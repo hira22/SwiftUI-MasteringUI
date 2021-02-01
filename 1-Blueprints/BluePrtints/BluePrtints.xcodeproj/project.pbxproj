@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B619B66A25C2A54E003FB48E /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B619B66925C2A54E003FB48E /* ProfileView.swift */; };
 		B646335925AD869200F90CBA /* BluePrtintsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B646335825AD869200F90CBA /* BluePrtintsApp.swift */; };
 		B646335B25AD869200F90CBA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B646335A25AD869200F90CBA /* ContentView.swift */; };
 		B646335D25AD869400F90CBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B646335C25AD869400F90CBA /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B619B66925C2A54E003FB48E /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		B646335525AD869200F90CBA /* BluePrtints.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BluePrtints.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B646335825AD869200F90CBA /* BluePrtintsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluePrtintsApp.swift; sourceTree = "<group>"; };
 		B646335A25AD869200F90CBA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				B646335825AD869200F90CBA /* BluePrtintsApp.swift */,
 				B646335A25AD869200F90CBA /* ContentView.swift */,
 				B646338625B924E100F90CBA /* AuthenticationView.swift */,
+				B619B66925C2A54E003FB48E /* ProfileView.swift */,
 				B646335C25AD869400F90CBA /* Assets.xcassets */,
 				B646336125AD869400F90CBA /* Info.plist */,
 				B646335E25AD869400F90CBA /* Preview Content */,
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B619B66A25C2A54E003FB48E /* ProfileView.swift in Sources */,
 				B646335B25AD869200F90CBA /* ContentView.swift in Sources */,
 				B646335925AD869200F90CBA /* BluePrtintsApp.swift in Sources */,
 				B646338725B924E100F90CBA /* AuthenticationView.swift in Sources */,
